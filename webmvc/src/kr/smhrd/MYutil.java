@@ -1,14 +1,13 @@
 package kr.smhrd;
 
+import com.sun.org.apache.bcel.internal.generic.RETURN;
+
 public class MYutil {
-	// 1~10 까지의 총합을 구하는 동작
+	// 한글수정
 	public int hap() {
-		int sum=0;
-		for (int i = 1; i <=10; i++) {
-			sum+=i;
-			
-		}
-		return sum;
+		// 길동아 여기좀 수정해봐~
+		return 55;
 	}
+	
 
 }
